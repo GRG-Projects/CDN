@@ -9,10 +9,10 @@ The CDN is using the system `JSDelivr` for creating the CDN out of the github re
 - Raw File
 
   ```
-  https://cdn.jsdelivr.net/gh/GRG-projects/CDN/dipy.css
+  https://cdn.jsdelivr.net/gh/GRG-projects/CDN@latest/dipy.css
   ```
 - Minified File
 
   ```
-  https://cdn.jsdelivr.net/gh/GRG-projects/CDN/dipy.min.css
+  https://cdn.jsdelivr.net/gh/GRG-projects/CDN@latest/dipy.min.css
   ```
