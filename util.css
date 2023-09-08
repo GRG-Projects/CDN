@@ -1,3 +1,27 @@
+/* Margin Utils */
+.mar-5 {
+  margin: 5px;
+}
+.mar-v-5 {
+  margin: 5px 0;
+}
+.mar-h-5 {
+  margin: 0 5px;
+}
+.mar-t-5 {
+  margin-top: 5px;
+}
+.mar-b-5 {
+  margin-bottom: 5px;
+}
+.mar-l-5 {
+  margin-left: 5px;
+}
+.mar-r-5 {
+  margin-right: 5px;
+}
+
+/* Padding Utils */
 .pad-5 {
   padding: 5px;
 }
