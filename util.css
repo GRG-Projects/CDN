@@ -3,10 +3,12 @@
   margin: 5px;
 }
 .mar-v-5 {
-  margin: 5px 0;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 .mar-h-5 {
-  margin: 0 5px;
+  margin-left: 5px;
+  margin-right: 5px;
 }
 .mar-t-5 {
   margin-top: 5px;
@@ -26,10 +28,12 @@
   padding: 5px;
 }
 .pad-v-5 {
-  padding: 5px 0;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 .pad-h-5 {
-  padding: 0 5px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 .pad-t-5 {
   padding-top: 5px;
@@ -47,10 +51,12 @@
   padding: 10px;
 }
 .pad-v-10 {
-  padding: 10px 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 .pad-h-10 {
-  padding: 0 10px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 .pad-t-10 {
   padding-top: 10px;
@@ -68,10 +74,12 @@
   padding: 15px;
 }
 .pad-v-15 {
-  padding: 15px 0;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 .pad-h-15 {
-  padding: 0 15px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 .pad-t-15 {
   padding-top: 15px;
@@ -89,10 +97,12 @@
   padding: 20px;
 }
 .pad-v-20 {
-  padding: 20px 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 .pad-h-20 {
-  padding: 0 20px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 .pad-t-20 {
   padding-top: 20px;
@@ -110,10 +120,12 @@
   padding: 32px;
 }
 .pad-v-32 {
-  padding: 32px 0;
+  padding-top: 32px;
+  padding-bottom: 32px;
 }
 .pad-h-32 {
-  padding: 0 32px;
+  padding-left: 32px;
+  padding-right: 32px;
 }
 .pad-t-32 {
   padding-top: 32px;
@@ -131,10 +143,12 @@
   padding: 48px;
 }
 .pad-v-48 {
-  padding: 48px 0;
+  padding-top: 48px;
+  padding-bottom: 48px;
 }
 .pad-h-48 {
-  padding: 0 48px;
+  padding-left: 48px;
+  padding-right: 48px;
 }
 .pad-t-48 {
   padding-top: 48px;
