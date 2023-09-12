@@ -226,6 +226,17 @@
 /* Styles for tablets */
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
   /* Your CSS styles for tablets go here */
+  .grid-1 {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+  
+  .grid-2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .grid-3,
   .grid-4,
   .grid-5 {
     grid-template-columns: repeat(3, 1fr);
